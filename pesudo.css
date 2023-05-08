@@ -1,0 +1,16 @@
+h2{
+    
+}
+.para{
+    color: #0a0a0a;
+    background-color: rgb(202, 202, 212);
+    border: 5px solid teal;
+    padding: 40px;
+    margin: auto;
+    width: 400px;
+    border-radius: 15px;
+}
+button{
+    text-align: center;
+    background-color: aquamarine;
+}

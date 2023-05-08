@@ -1,0 +1,22 @@
+#para-two{
+    color: green;
+}
+#para-three{
+        color:red
+}
+#para-one{
+    color: blue;
+}
+#para-four{
+    background-color: rgb(219, 215, 215);
+}
+.text-hello{
+    background-size: cover;
+    background-color: rgb(194, 201, 199);
+}
+tr{
+    background-color: rgb(190, 236, 234);
+}
+form{
+    background-color: lightgray;
+}
